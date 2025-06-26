@@ -5,6 +5,8 @@ Most of the scripts have annotations made in english and/or spanish indistinguis
 
 Some of the scripts might have been superseeded by others in the repo, but with time this will be fixed.
 
+Probably the most interesting/well made is "lig_prep_PH_v2.1.py". Shows clear function definition, comments and parallelisation of processes.
+
 --------------------------------------------------------------------------------------------------------------
 
 Scripts desarrollados durante el TFM del master de Bioinformatica y Bioestadistica de la UOC acerca del screening virtual de metabolitos intestinales en FXR, GPBAR-1 y AHR
